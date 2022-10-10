@@ -1,6 +1,7 @@
 # Reciprocal space maps generator
 
 ![downloads](https://img.shields.io/github/downloads/rafaela-felix/rsm/total)
+![size](https://img.shields.io/github/languages/code-size/rafaela-felix/rsm)
 
 Python and MATLAB versions of a simple module to generate three-dimensional reciprocal space maps from X-ray diffraction data.
 
