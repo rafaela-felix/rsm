@@ -77,13 +77,10 @@ If you use the codes in your research, please consider citing the following work
 ```
 @article{3d_reciprocal_space_maps,
   title={A simple recipe to create three-dimensional reciprocal space maps},
-  author={F. S. Penacchio, Rafaela and B. Estradiote, Mauricio and Morelhao, Sergio L. and Fornari, 
-          Celso I. and Kagerer, Philipp and Dittmar, Marco and Muller, 
-          Simon and Reinert, Friedrich},
-  journal={},
-  pages={},
+  author={Penacchio, Rafaela F. S. and Estradiote, Maurício B. and Morelhão, Sérgio L. and Fornari, Celso I. 
+         and Kagerer, Philipp and Dittmar, Marco and     Müller, Simon and Reinert, Friedrich},
   year={2022},
-  doi={}
-  publisher={}
+  doi={10.48550/ARXIV.2210.05427}
+  publisher = {arXiv}
 }
 ```
